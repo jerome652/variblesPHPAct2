@@ -4,7 +4,7 @@ $age = "19";
 $school = "grc";
 $course = "bsit";
 $subject = "WEBSYS";
-$student = "yes";
+$student = "yeS";
 
 
 
